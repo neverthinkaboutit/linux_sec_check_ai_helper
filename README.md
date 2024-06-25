@@ -22,6 +22,7 @@ Tips：脚本支持 Centos、Debian，主要是在 Ubuntu 上进行测试。
 
 # Helper
 ```
+# bash linux_sec_check.sh
 [*] =======================================================================================  
 [*] \ Linux Emergency Response/Information Gathering/Vulnerability Detection Script V0.1 /   
 [*] =======================================================================================  
@@ -42,7 +43,7 @@ Tips：脚本支持 Centos、Debian，主要是在 Ubuntu 上进行测试。
 [+]运行环境检测通过 
 
 usage:  
-	 -v --version	 show script version.
+	 -v --version	 	 show script version.
  	 -a --auto		 run linux_sec_check.
 	 -d --depth		 run linux_sec_check in deep mode.
 	 -h --help		 print helper.
